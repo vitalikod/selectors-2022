@@ -1,0 +1,28 @@
+.contener_1 {
+	 background-color: aqua;
+     height: 200px;
+     width: 1000px;
+     display: flex;
+	 justify-content: space-between;	 
+}
+.item {
+	display: flex;
+	justify-content: space-between;
+	height: 180px;
+	width: 240px;
+	background-color: blue;
+	border: 2px solid black;
+	margin: 8px 0;
+}
+.img {
+	height: 180px;
+	width: 120px;
+	border-radius: 24px;
+}
+.text {
+	height: 179px;
+	width: 120px;
+	background-color: red;
+	border: 1px solid black;
+	
+}
